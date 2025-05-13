@@ -1,0 +1,11 @@
+{
+  "name": "com.samuelsalo.dialoguegenerator",
+  "version": "0.0.1",
+  "displayName": "Dialogue Generator",
+  "description": "Ink Dialogue Generator Powered By OpenAI LLMs",
+  "author": {
+    "name": "Samuel Salo",
+    "email": "samuel.j.salo@gmail.com",
+    "url": "https://samuelsalo.github.io"
+  }
+}

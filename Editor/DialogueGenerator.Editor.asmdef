@@ -1,0 +1,18 @@
+{
+    "name": "DialogueGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:58bed0e7c5306824586d7eda03609289",
+        "GUID:2047ab7874eb449d78c2b459017aa506",
+        "GUID:5ca87dd09e0281f42a25e7434b4749d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
